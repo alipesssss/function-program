@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="lajifenlei"
+  id="myeclipse.1586222806055"
+  context-root="/lajifenlei"
+  j2ee-spec="5.0"
+  archive="lajifenlei.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
